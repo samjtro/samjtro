@@ -1,16 +1,18 @@
-### Hi there 👋
+# sam j t
 
-<!--
-**samjtro/samjtro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samjtro&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Here are some ideas to get you started:
+## about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- developer; python, c learning go, java
+- student; a.s. computer science --> b.s. computer science - data science & machine learning
+
+## my projects
+
+- td-algotrader
+- dl4collegehousingprices
+- tri-map
+
+## random
+
+- love music & adventure
