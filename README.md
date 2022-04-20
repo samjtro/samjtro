@@ -2,7 +2,7 @@
 
 ## about me
 
-- python, c data & k8s cloud-native engineer learning go, java
+- python data & k8s cloud-native engineer learning go, java
 - student; a.s. computer science --> b.s. computer science - data science & machine learning
 - founder ceo cto; rhizomatiq - seed2sale cannabis supply chain utility
 
