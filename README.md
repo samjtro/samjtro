@@ -4,7 +4,7 @@
 
 ## about me
 
-- developer; python, c learning go, java
+- python, c data & k8s cloud-native engineer learning go, java
 - student; a.s. computer science --> b.s. computer science - data science & machine learning
 
 ## my projects
@@ -13,6 +13,3 @@
 - dl4collegehousingprices
 - tri-map
 
-## random
-
-- love music & adventure
