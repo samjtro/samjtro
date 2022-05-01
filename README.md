@@ -18,6 +18,5 @@
 [Twitter](https://twitter.com/samjtro)
 [LinkedIn](https://www.linkedin.com/in/samtroyer/)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=samjtro&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro)](https://github.com/anuraghazra/github-readme-stats)
 
