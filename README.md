@@ -1,4 +1,4 @@
-# <div style="text-align: center"> samuel j troyer </div>
+# <div style="text-align: center;"> samuel j troyer </div>
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro&count_private=true&show_icons=true&theme=synthwave&custom_title=samjtro)](https://github.com/anuraghazra/github-readme-stats)
 
