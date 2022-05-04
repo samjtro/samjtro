@@ -18,5 +18,5 @@
 [Twitter](https://twitter.com/samjtro)
 [LinkedIn](https://www.linkedin.com/in/samtroyer/)
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro)](https://github.com/anuraghazra/github-readme-stats)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro&count_private=true&show_icons=true&theme=synthwave&custom_title=samjtro)](https://github.com/anuraghazra/github-readme-stats)
 
