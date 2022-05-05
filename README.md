@@ -15,6 +15,8 @@
 - dl4collegehousingprices
 - tri-map
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samjtro)](https://github.com/anuraghazra/github-readme-stats)
+
 ## where you can find me
 
 [Twitter](https://twitter.com/samjtro)
