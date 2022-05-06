@@ -11,12 +11,6 @@
 - student; a.s. computer science --> b.s. computer science - data science & machine learning
 - founder ceo cto; rhizomatiq - seed2sale cannabis supply chain utility
 
-## my projects
-
-- td-algotrader
-- dl4collegehousingprices
-- tri-map
-
 ## where you can find me
 
 [Twitter](https://twitter.com/samjtro)
