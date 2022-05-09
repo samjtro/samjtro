@@ -7,12 +7,15 @@
 ## about me
 
 - python data engineer learning go, java & k8s cloud-native
-- linux & container enthusiast
+- linux, container, distributed data & general c.s. enthusiast
+- love the outdoors, learning, finance, music [r&b, rap, jazz, soul, funk, edm, rock, metal, really anything] & life
 - student; a.s. computer science --> b.s. computer science - data science & machine learning
-- founder ceo cto; rhizomatiq - seed2sale cannabis supply chain utility
+- founder; rhizomatiq - distributed supply chain & payment utilities
 
 ## where you can find me
 
 [Twitter](https://twitter.com/samjtro)
 [LinkedIn](https://www.linkedin.com/in/samtroyer/)
+
+## cool projects:
 
