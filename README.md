@@ -2,7 +2,7 @@
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro&count_private=true&show_icons=true&theme=synthwave&custom_title=samjtro)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samjtro&layout=compact&hide=HTML,Vim%20script)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samjtro&layout=compact&hide=HTML,Vim%20script,Javascript,SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 ## about me
 
