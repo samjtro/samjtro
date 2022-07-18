@@ -1,6 +1,6 @@
-# <div style="text-align: center;"> samuel j troyer </div>
+# <p align="center">Samuel J Troyer</p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=samjtro&theme=oldie&title=Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+# <p align="center">[![Trophies](https://github-profile-trophy.vercel.app/?username=samjtro&theme=oldie&title=Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 ## About
 
