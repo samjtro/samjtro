@@ -12,7 +12,7 @@
 
 ## <p align="center">Projects</p>
 
-See below; notable projects include [go-tda](https://github.com/samjtro/go-tda), [tri-map](https://github.com/samjtro/tri-map) & [dl4collegehousingprices](https://github.com/samjtro/dl4collegehousingprices).
+See below; notable projects include [go-tda](https://github.com/samjtro/go-tda), [pass](https://github.com/samjtro/pass), [tri-map](https://github.com/samjtro/tri-map).
 
 ## <p align="center">About</p>
 
