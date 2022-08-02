@@ -24,7 +24,7 @@ See pinned projects below - notable projects include:
 - Sales Professional
 - Founder & President, Rhizomatiq
 
-<p align="center">[Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)</p>
+[Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)
 
 ## <p align="center">Certificates</p>
 
