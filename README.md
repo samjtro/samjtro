@@ -12,7 +12,7 @@
 
 ## <p align="center">Projects</p>
 
-See below; notable projects include: 
+See pinned projects below - notable projects include: 
 - [go-tda](https://github.com/samjtro/go-tda) - Fastest TD-Ameritrade API Hook, written in Pure Go. Currently about 80% functional, everything but live trading works.
 - [tri-map](https://github.com/samjtro/tri-map) - Takes EPA TRI data and uses Python to convert it into an HTML map, documenting different pollution points (type of pollution, density, etc.).
 - [pass](https://github.com/samjtro/pass) - Pure Go password generation.
@@ -24,7 +24,7 @@ See below; notable projects include:
 - Sales Professional
 - Founder & President, Rhizomatiq
 
-[Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)
+<p align="center">[Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)</p>
 
 ## <p align="center">Certificates</p>
 
