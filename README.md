@@ -4,7 +4,7 @@
 
 ## <p align="center">Skills</p>
 
-I am a skilled Golang & Python Data Engineer, with most of my projects surrounding Data, Distributed Systems & Cloud-Native integration of those two concepts. I have spent the last year diving headfirst into K8s Containerization Deployments as Cloud-Native Microservice Architectures.
+<p align="center">I am a skilled Golang & Python Data Engineer, with most of my projects surrounding Data, Distributed Systems & Cloud-Native integration of those two concepts. I have spent the last year diving headfirst into K8s Containerization Deployments as Cloud-Native Microservice Architectures.</p>
 
 ### <p align="center">Languages & Protocols</p>
 
