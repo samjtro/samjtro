@@ -17,10 +17,11 @@ I am a skilled Golang & Python Data Engineer, with most of my projects surroundi
 
 ### <p align="center">OSs & More</p>
 
-Linux (Ubuntu [5y]/Ubuntu Server[3y], Fedora[2y]/Red Hat[2y], Kali Linux[4y], Parrot OS[4y])
-Windows (10+y)
-MacOS (10+y)
-BSD (2y)
+- Linux (Ubuntu [5y]/Ubuntu Server[3y], Fedora[2y]/Red Hat[2y], Kali Linux[4y], Parrot OS[4y])
+- Windows (10+y)
+- MacOS (10+y)
+- Network Security (2y)
+- BSD (1y)
 
 ## <p align="center">Projects</p>
 
