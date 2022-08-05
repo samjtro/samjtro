@@ -3,9 +3,10 @@
 [![Trophies](https://github-profile-trophy.vercel.app/?username=samjtro&theme=oldie&title=Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <p align="center">Skills</p>
-### <p align="center">Languages & Protocols</p>
 
-I am a skilled Golang & Python Data Engineer, with most of my projects surrounding Data, Distributed Systems & Cloud-Native integration of those two concepts. I have recently started dipping my toes into K8s system management, which is a true godsend for the above projects. Docker & Containerization are familiar concepts to me as well.
+I am a skilled Golang & Python Data Engineer, with most of my projects surrounding Data, Distributed Systems & Cloud-Native integration of those two concepts. I have spent the last year diving headfirst into K8s Containerization Deployments as Cloud-Native Microservice Architectures.
+
+### <p align="center">Languages & Protocols</p>
 
 - Python (7y)
 - Golang (2y)
