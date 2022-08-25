@@ -1,6 +1,5 @@
 # <p align="center">Samuel J Troyer</p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=samjtro&theme=oldie&title=Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samjtro&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 ## <p align="center">Skills</p>
