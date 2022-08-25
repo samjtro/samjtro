@@ -1,6 +1,6 @@
 # <p align="center">Samuel J Troyer</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samjtro&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <p align="center">Skills</p>
 
