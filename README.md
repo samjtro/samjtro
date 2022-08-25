@@ -1,6 +1,6 @@
 # <p align="center">Samuel J Troyer</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <p align="center">Skills</p>
 
