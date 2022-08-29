@@ -4,18 +4,26 @@
 
 ## <p align="center">About</p>
 
-[Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)
+<center>
+<table>
+<tbody>
+<thead><tr><td colspan=3>
+Contact Me
+</span>
+</td></tr></thead>
+<tr class="odd">
+<td style="text-align: center;"><a href="https://twitter.com/samjtro">Twitter</a></td>
+<td style="text-align: center;"><a href="https://www.linkedin.com/in/samtroyer">Linkedin</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><a href="samjtro@proton.me">E-Mail</a></td>
+<td style="text-align: center;"><a href="github.com/samjtro/resume">Resume (WIP)</a></td>
+</tr>
+</tbody>
+</table>
+</center>
 
 <p align="center">I am a skilled Cloud-Native & Data Services Engineer. Experience building & managing Container-based cloud architectures, unstructured, structured & distributed databases, reinforcement learning models, financial modelling architectures & more.</p>
-
-## <p align="center">Projects</p>
-
-See pinned projects below - notable projects include: 
-- [go-tda](https://github.com/samjtro/go-tda) - Fastest TD-Ameritrade API Hook, written in Pure Go. Currently about 80% functional, everything but live trading works.
-- [sn](https://github.com/samjtro/sn) - (WIP) Stock news platform, written in Go. Connects to Gmail via gomail and delivers emails if the there are new headlines regarding the keywords provided. Uses badger to store hashes of recent headlines.
-- [go-algotrader](https://github.com/samjtro/go-algotrader) - (WIP) Fast Go TD-Ameritrade Indicator Processor. Eventually, ML Implementation for Price Forecasting
-- [tri-map](https://github.com/samjtro/tri-map) - Takes EPA TRI data and uses Python to convert it into an HTML map, documenting different pollution points (type of pollution, density, etc.).
-- [pass](https://github.com/samjtro/pass) - Go password generation.
 
 ## <p align="center">Skills</p>
 
