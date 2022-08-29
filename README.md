@@ -2,9 +2,6 @@
 
 <p align="center">I am a skilled Cloud-Native & Data Services Engineer. Experience building & managing Container-based cloud architectures, unstructured, structured & distributed databases, reinforcement learning models, financial modelling architectures & more.</p>
 
-<p align="center">CompTIA A+ Certified</p>
-<p align="center">CompTIA Security+ - Expired 06/22</p>
-
 <center>
 <table>
 <tbody>
@@ -24,22 +21,3 @@ Contact Me
 </table>
 </center>
 
-## <p align="center">Skills</p>
-
-#### <p align="center">Languages & Protocols</p>
-
-- Python (7y)
-- Golang (2y)
-- SQL, NoSQL, Unstructured & Distributed Database Engineering & Management (2y)
-- Docker (1y)
-- Java (1y)
-- C (<1y)
-- K8s (<1y)
-
-#### <p align="center">OSs & More</p>
-
-- Linux (Ubuntu [5y]/Ubuntu Server[3y], Fedora[2y]/Red Hat[2y], Kali Linux[4y], Parrot OS[4y])
-- Windows (10+y)
-- MacOS (10+y)
-- Network Security (2y)
-- BSD (1y)
