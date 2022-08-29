@@ -4,11 +4,9 @@
 
 ## <p align="center">About</p>
 
-- C.S. Student - Graduating 2023
-- Sales Professional
-- Founder & President, Rhizomatiq
-
 [Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)
+
+<p align="center">I am a skilled Cloud-Native & Data Services Engineer. Experience building & managing Container-based cloud architectures, unstructured, structured & distributed databases, reinforcement learning models, financial modelling architectures & more.</p>
 
 ## <p align="center">Projects</p>
 
@@ -20,8 +18,6 @@ See pinned projects below - notable projects include:
 - [pass](https://github.com/samjtro/pass) - Go password generation.
 
 ## <p align="center">Skills</p>
-
-<p align="center">I am a skilled Golang & Python Data Engineer, with most of my projects surrounding Data, Distributed Systems & Cloud-Native integration of those two concepts. I have spent the last year diving headfirst into K8s Containerization Deployments as Cloud-Native Microservice Architectures.</p>
 
 ### <p align="center">Languages & Protocols</p>
 
