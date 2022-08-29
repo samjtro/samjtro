@@ -2,6 +2,23 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## <p align="center">About</p>
+
+- C.S. Student - Graduating 2023
+- Sales Professional
+- Founder & President, Rhizomatiq
+
+[Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)
+
+## <p align="center">Projects</p>
+
+See pinned projects below - notable projects include: 
+- [go-tda](https://github.com/samjtro/go-tda) - Fastest TD-Ameritrade API Hook, written in Pure Go. Currently about 80% functional, everything but live trading works.
+- [sn](https://github.com/samjtro/sn) - (WIP) Stock news platform, written in Go. Connects to Gmail via gomail and delivers emails if the there are new headlines regarding the keywords provided. Uses badger to store hashes of recent headlines.
+- [go-algotrader](https://github.com/samjtro/go-algotrader) - (WIP) Fast Go TD-Ameritrade Indicator Processor. Eventually, ML Implementation for Price Forecasting
+- [tri-map](https://github.com/samjtro/tri-map) - Takes EPA TRI data and uses Python to convert it into an HTML map, documenting different pollution points (type of pollution, density, etc.).
+- [pass](https://github.com/samjtro/pass) - Go password generation.
+
 ## <p align="center">Skills</p>
 
 <p align="center">I am a skilled Golang & Python Data Engineer, with most of my projects surrounding Data, Distributed Systems & Cloud-Native integration of those two concepts. I have spent the last year diving headfirst into K8s Containerization Deployments as Cloud-Native Microservice Architectures.</p>
@@ -23,23 +40,6 @@
 - MacOS (10+y)
 - Network Security (2y)
 - BSD (1y)
-
-## <p align="center">Projects</p>
-
-See pinned projects below - notable projects include: 
-- [go-tda](https://github.com/samjtro/go-tda) - Fastest TD-Ameritrade API Hook, written in Pure Go. Currently about 80% functional, everything but live trading works.
-- [tri-map](https://github.com/samjtro/tri-map) - Takes EPA TRI data and uses Python to convert it into an HTML map, documenting different pollution points (type of pollution, density, etc.).
-- [pass](https://github.com/samjtro/pass) - Pure Go password generation.
-- [scan](https://github.com/samjtro/scan) - (WIP) Pure Go port scanner, eventually going to include a few other network security tools written in Go.
-- [go-algotrader](https://github.com/samjtro/go-algotrader) - (WIP) Fast TD-Ameritrade Indicator Processor + Eventually, Go ML Implementation for Price Forecasting
-
-## <p align="center">About</p>
-
-- C.S. Student - Graduating 2023
-- Sales Professional
-- Founder & President, Rhizomatiq
-
-[Twitter](https://twitter.com/samjtro) | [LinkedIn](https://www.linkedin.com/in/samtroyer/)
 
 ## <p align="center">Certificates</p>
 
