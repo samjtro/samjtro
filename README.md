@@ -1,8 +1,9 @@
 # <p align="center">Samuel J Troyer</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=samjtro&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">I am a skilled Cloud-Native & Data Services Engineer. Experience building & managing Container-based cloud architectures, unstructured, structured & distributed databases, reinforcement learning models, financial modelling architectures & more.</p>
 
-## <p align="center">About</p>
+<p align="center">CompTIA A+ Certified</p>
+<p align="center">CompTIA Security+ - Expired 06/22</p>
 
 <center>
 <table>
@@ -23,11 +24,9 @@ Contact Me
 </table>
 </center>
 
-<p align="center">I am a skilled Cloud-Native & Data Services Engineer. Experience building & managing Container-based cloud architectures, unstructured, structured & distributed databases, reinforcement learning models, financial modelling architectures & more.</p>
-
 ## <p align="center">Skills</p>
 
-### <p align="center">Languages & Protocols</p>
+#### <p align="center">Languages & Protocols</p>
 
 - Python (7y)
 - Golang (2y)
@@ -37,15 +36,10 @@ Contact Me
 - C (<1y)
 - K8s (<1y)
 
-### <p align="center">OSs & More</p>
+#### <p align="center">OSs & More</p>
 
 - Linux (Ubuntu [5y]/Ubuntu Server[3y], Fedora[2y]/Red Hat[2y], Kali Linux[4y], Parrot OS[4y])
 - Windows (10+y)
 - MacOS (10+y)
 - Network Security (2y)
 - BSD (1y)
-
-## <p align="center">Certificates</p>
-
-- CompTIA Security+
-- CompTIA A+
