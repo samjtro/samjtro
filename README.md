@@ -1,6 +1,5 @@
 # <p align="center">Samuel J Troyer</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samjtro&theme=gruvbox&date_format=%5BY%20%5DM%20j&fire=DD2727)](https://git.io/streak-stats)
 <p align="center">I am a skilled Cloud-Native & Data Engineer, with exposure to many languages. Most relevantly; Golang [2y], Python [7y], Bash [3y]  & Java [1y]. Please see my resume for more info. CompTIA+ Certified. Experience building & managing k8s deployments, both on-prem and in-cloud; Unstructured, structured & distributed database development & management; Financial modelling architectures; API Servers; Network Scanners & more.</p>
 
 <center>
@@ -22,3 +21,4 @@ Contact Me
 </table>
 </center>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samjtro&theme=gruvbox&date_format=%5BY%20%5DM%20j&fire=DD2727)](https://git.io/streak-stats)
