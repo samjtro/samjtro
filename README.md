@@ -20,5 +20,3 @@ Contact Me
 </tbody>
 </table>
 </center>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samjtro&theme=gruvbox&date_format=%5BY%20%5DM%20j&fire=DD2727)](https://git.io/streak-stats)
