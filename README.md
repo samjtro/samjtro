@@ -1,4 +1,4 @@
-# <p align="center">Samuel J Troyer</p>
+# <p align="center">Samuel Joseph Troyer</p>
 
 <p align="center">I am a Sales Professional & Entrepreneur. See my website samjtro.com for more info.</p>
 <p align="center">Set up a <a href="https://calendly.com/samjtro/meet">meeting with me</a>, or email me at hi@samjtro.com with any inquiries.</p>
